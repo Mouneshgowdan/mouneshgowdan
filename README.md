@@ -1,6 +1,6 @@
-Hi👋,I'amMounesh N 
+Hi👋,I'am Mounesh N 
 
-I'am student 
+I'am student at Sai Vidya Institute of Technology  |python|Html|C|Java|
 
 
 ## 🌐 Socials:
