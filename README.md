@@ -1,6 +1,6 @@
 Hi👋,I'am Mounesh N 
 
-I'am student at Sai Vidya Institute of Technology  |python|Html|C|Java|
+I'am student at Sai Vidya Institute of Technology  | python | Html | C | Java |
 
 
 ## 🌐 Socials:
